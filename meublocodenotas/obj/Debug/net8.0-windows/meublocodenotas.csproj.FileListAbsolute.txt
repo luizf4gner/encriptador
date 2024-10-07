@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\bin\Debug\net8.0-windows\meublocodenotas.exe
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\bin\Debug\net8.0-windows\meublocodenotas.deps.json
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\bin\Debug\net8.0-windows\meublocodenotas.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\bin\Debug\net8.0-windows\meublocodenotas.dll
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\bin\Debug\net8.0-windows\meublocodenotas.pdb
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.Form1.resources
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.dll
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\refint\meublocodenotas.dll
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.pdb
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\meublocodenotas.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Charliston.comunity\InterfaceGraficas\meublocodenotas\meublocodenotas\obj\Debug\net8.0-windows\ref\meublocodenotas.dll
